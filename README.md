@@ -448,6 +448,7 @@ When issues occur, AI Document Creator automatically generates a **pre-filled su
 - **Bug Reports & Issues**: [GitHub Repository](https://github.com/wodenagi/docbot)
 - **Feature Requests**: [GitHub Discussions](https://github.com/wodenagi/docbot/discussions)
 - **Community Support**: Join discussions and share feedback on our [GitHub repository](https://github.com/wodenagi/docbot)
+- **Billing Questions**: support@woden-ai.com
 - **Technical Support**: Included with all paid tiers - 24-hour response guarantee
 
 ## 🌟 Why AI Document Creator?
@@ -526,4 +527,4 @@ Enhanced rebuild workflow for complete documentation regeneration:
 
 ---
 
-Built with ❤️ by WAI · [Website](https://woden-ai.com) · [Pricing](https://woden-ai.com/products)
+Built by Woden AI · [Website](https://woden-ai.com) · [Pricing](https://woden-ai.com/products) · [Support](mailto:support@woden-ai.com)
