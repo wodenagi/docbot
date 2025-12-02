@@ -18,7 +18,7 @@ AI Document Creator uses advanced AI (appropriate language models) to automatica
 
 **📊 Fair Usage:** Free tier usage is subject to a fair monthly usage allocation (250M tokens shared across all free tier users) to ensure sustainable service for everyone. This ensures the service remains available and responsive for all users while we grow toward verification and paid tier launch.
 
-**💡 Coming Soon:** More powerful paid tiers for high-volume usage and enterprise features - currently building toward GitHub verification (100 installations required).
+**💡 Coming Soon:** More powerful paid tiers for high-volume usage and enterprise features - currently building toward GitHub Marketplace verification.
 
 ---
 
@@ -52,7 +52,7 @@ AI Document Creator uses advanced AI (appropriate language models) to automatica
 - **Manual Approval Mode**: Require explicit approval before generating docs on each PR (`require_pr_approval: true`)
 - **Exclude Patterns**: Ignore build artifacts, dependencies, and generated files
 - **Custom Docs Folder**: Choose where documentation is stored
-- **Free Tier**: 100K total tokens to get started - full product access!
+- **Free Tier**: 150K total tokens to get started - full product access!
 - **🔮 Coming Soon**: Paid plans from $10/mo (250K tokens) to $500/mo (20M+ tokens)
 - **🔮 Coming Soon**: Release documentation generator with custom tone configuration
 
@@ -116,7 +116,7 @@ AI Document Creator generates **three levels of documentation**:
 - **Free tier**: Process PRs until you reach 150K tokens - plenty for most moderate projects!
 
 ### 3️⃣ Grow with Us
-- Free tier: **100K tokens** - experience the full product!
+- Free tier: **150K tokens** - experience the full product!
 - Configure branch filtering, approval workflows, and exclusions
 - Track your usage via GitHub comments on each PR
 - **Coming soon**: Paid tiers from $10/mo (250K tokens) to $500/mo (20M+ tokens) - currently working toward GitHub verification
@@ -171,7 +171,7 @@ Need to regenerate docs after making quick changes to your PR? Simply comment:
 - ✅ Community support and documentation
 - 📊 Subject to fair monthly usage allocation (250M tokens shared across all free users)
 
-**Paid tiers coming soon** (pending GitHub verification - need 100 installations):
+**Paid tiers coming soon** (pending GitHub verification):
 - Unlimited monthly token allocations
 - Priority email support (24-hour SLA)
 - Advanced features and integrations
