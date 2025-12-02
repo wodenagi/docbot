@@ -105,7 +105,7 @@ AI Document Creator generates **three levels of documentation**:
 - Maintain meaningful documentation hierarchy
 
 ### 1️⃣ Install & Configure
-- [Install AI Document Creator](https://github.com/apps/wagi-docbot) on your repository
+- [Install AI Document Creator](https://github.com/apps/ai-document-creator) on your repository
 - **Configure exclusions** in `.github/wai-docbot.yml` (recommended for optimal performance)
 - Start with **150K free tokens** - document your entire moderate repo or dozens of PRs!
 
@@ -423,7 +423,7 @@ Every account starts with **150,000 lifetime tokens** to explore the full produc
 ## 🚦 Getting Started
 
 ### Quick Start (3 minutes)
-1. [Install AI Document Creator](https://github.com/apps/wagi-docbot)
+1. [Install AI Document Creator](https://github.com/apps/ai-document-creator)
 2. Open a PR in your repository
 3. Documentation generates automatically (with `[skip ci]` tags to avoid triggering CI/CD)
 4. Review the comprehensive docs in `wai_docs/` folder
@@ -448,7 +448,6 @@ When issues occur, AI Document Creator automatically generates a **pre-filled su
 - **Bug Reports & Issues**: [GitHub Repository](https://github.com/wodenagi/docbot)
 - **Feature Requests**: [GitHub Discussions](https://github.com/wodenagi/docbot/discussions)
 - **Community Support**: Join discussions and share feedback on our [GitHub repository](https://github.com/wodenagi/docbot)
-- **Billing Questions**: support@woden-ai.com
 - **Technical Support**: Included with all paid tiers - 24-hour response guarantee
 
 ## 🌟 Why AI Document Creator?
@@ -523,8 +522,8 @@ Enhanced rebuild workflow for complete documentation regeneration:
 
 ## 🔗 Get Started Today
 
-[Install AI Document Creator](https://github.com/apps/wagi-docbot) and transform your documentation workflow!
+[Install AI Document Creator](https://github.com/apps/ai-document-creator) and transform your documentation workflow!
 
 ---
 
-Built with ❤️ by WAI · [Website](https://woden-ai.com) · [Pricing](https://woden-ai.com/products) · [Support](mailto:support@woden-ai.com)
+Built with ❤️ by WAI · [Website](https://woden-ai.com) · [Pricing](https://woden-ai.com/products)
