@@ -39,7 +39,7 @@ AI Document Creator uses advanced AI (appropriate language models) to automatica
 - **Full Repository Rebuilds**: Option to regenerate all documentation at once
 - **Custom Folder Structure**: Configure where docs are stored (default: `wai_docs/`)
 - **⚠️ File Exclusions Critical**: Properly exclude build artifacts, dependencies, and generated files to maintain documentation readability and control costs
-- **Incremental Rebuilds**: Full repository documentation via `wai-docs-update` branch or `[DOCS-REBUILD]` tag
+- **Incremental Rebuilds**: Full repository documentation via `wai-docs-update` branch
 
 ### 💰 Cost-Effective AI
 - **70-90% Cheaper**: Uses appropriate language models instead of expensive Highend AI Models (GPT5/Claude etc.)
@@ -124,7 +124,7 @@ AI Document Creator generates **three levels of documentation**:
 ### 💡 Manual Re-runs
 Need to regenerate docs after making quick changes to your PR? Simply comment:
 ```
-/docbot rerun
+/docbot-rerun
 ```
 
 **What it does:**
@@ -141,14 +141,13 @@ Need to regenerate docs after making quick changes to your PR? Simply comment:
 
 ### 4️⃣ Full Repository Rebuilds
 - Create branch `wai-docs-update` from your main branch
-- Create an empty commit: `git commit --allow-empty -m "Trigger full documentation rebuild"`
+- Create an empty commit: `git commit --allow-empty -m "Trigger documentation rebuild"`
 - Push and create PR to trigger full repo scan
 - DocBot posts token estimate and cost
-- Comment `/docbot rebuild approve` to proceed
+- Comment `/docbot-rebuild-approve` to proceed
 - Complete documentation with master index generated
 
 **Alternative triggers:**
-- Include `[DOCS-REBUILD]` in PR title from any branch
 - Use branch name containing `wai-docs-update`
 
 ## 📊 Pricing Tiers
@@ -224,7 +223,7 @@ preferences:
   include_examples: true
 
   # Require manual approval before generating documentation
-  # When true, you must comment "/docbot approve" on each PR to generate docs
+  # When true, you must comment "/docbot-approve" on each PR to generate docs
   # When false, documentation is generated automatically (default)
   require_pr_approval: true
   
